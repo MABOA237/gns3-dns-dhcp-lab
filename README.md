@@ -5,7 +5,7 @@ This projectis a virtual network lab built using GNS3. It implements core networ
 
 ## Technologies Used
 -GNS3
--Linux (Ubuntu server)
+-Linux (Ubuntu server)/n
 -Bind9 (DNS)
 -kea DHCP (in progress)
 -VLANs
