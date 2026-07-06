@@ -1,0 +1,11 @@
+$TTL 86400
+@           IN        SOA      dns-srv1.mejj.com. admin.mejj.comm  (
+                                     2            ; serial
+                                  3600            ; refresh
+                                  1800            ; retry
+                               1208600            ; expire
+                                 86400    )       ; Minimum TTL
+
+@             IN      NS    srv-dns1.mejj.com.
+@             IN      NS    srv-dns2.mejj.com.
+
