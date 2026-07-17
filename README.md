@@ -16,13 +16,12 @@ This projectis a virtual network lab built using GNS3. It implements core networ
 -VLAN configuration completed
 -static routing completed
 -DNS service implemented using Bind9
+-Configuring DHCP using kea DHCP
 
 ## Next Steps
--Configuring DHCP using kea DHCP
 -Automate network uising service deployment using Bash/Python scripts
 -Containerize DNS and DHCP services using Docker
 -Deploy the full infrastructure using Docker Compose
--Extend infrastructures wit advanced services
 
 ## Author
 Aspiring Network & Systems Engineer
